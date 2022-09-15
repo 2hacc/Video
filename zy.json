@@ -1,5 +1,4 @@
-我的云端硬盘
-﻿[
+[
 {"key": "U酷资源", "name":"U酷资源", "api": "https://api.ukuapi.com/api.php/provide/vod/at/xml","download": "","jiexiUrl": "","group": "影视","isActive": true,"status": "可用","reverseOrder": true},
 {"key": "奇粹影视", "name":"奇粹影视", "api": "http://www.blssv.com/api.php/provide/vod/at/xml","download": "","jiexiUrl": "","group": "影视","isActive": true,"status": "可用","reverseOrder": true},
 {"key": "土剧TV", "name":"土剧TV", "api": "http://tujutv.top/api.php/provide/vod/at/xml","download": "","jiexiUrl": "","group": "影视","isActive": true,"status": "可用","reverseOrder": true},
